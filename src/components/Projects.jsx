@@ -40,7 +40,7 @@ const Projects = () => {
                         {tech}
                         </span>
                     ))}
-                    <div className='mt-4'>
+                    <div className='mt-6'>
                     <a href={project.link} className='mr-2 mt-4 rounded text-stone-900 p-2 text-sm font-medium bg-stone-300'>DEMO</a>
                     </div>
                     
