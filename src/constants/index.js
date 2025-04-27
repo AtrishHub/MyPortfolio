@@ -44,7 +44,7 @@ export const PROJECTS = [
     title: "Movie Webapp",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "Developed a full-stack Movie Web App using the MERN Stack, allowing users to browse, search, and view detailed information about movies and TV shows. Integrated third-party APIs (such as TMDB or OMDB) to fetch real-time movie data and implemented JWT-based authentication for secure user login and personalized features like watchlists and favorites. Built a responsive and user-friendly frontend with React.js, optimized performance with lazy loading and search filters, and designed a scalable backend with Node.js, Express.js, and MongoDB.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
     link:"https://github.com/AtrishHub"
   },
